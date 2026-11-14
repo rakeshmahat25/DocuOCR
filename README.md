@@ -544,4 +544,4 @@ Potential next steps: payment/billing integration, PostgreSQL migration, per-ten
 
 ## License
 
-No license file is currently included. Add one before distributing or open-sourcing the project.
+Software code in this project is licensed under the Apache License 2.0.
